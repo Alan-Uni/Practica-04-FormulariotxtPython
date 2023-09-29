@@ -1,0 +1,21 @@
+Nombres: Alan
+Apellidos: Python
+Edad:  18 años
+Estatura: 160cm
+Telefono:  123123423
+Genero: Hombre
+
+Nombres: Alan
+Apellidos: Diaz
+Edad:  18 años
+Estatura: 160cm
+Telefono:  9612367031
+Genero: Hombre
+
+Nombres: Prueba
+Apellidos: PythonVisual
+Edad:  1 años
+Estatura: 23cm
+Telefono:  12445
+Genero: Mujer
+
